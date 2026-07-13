@@ -1,0 +1,6 @@
+PySide6
+numpy
+SQLAlchemy
+loguru
+pyqtgraph
+pydantic
